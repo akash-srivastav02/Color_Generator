@@ -1,1 +1,1 @@
-Generate random colour and its rgb() value.
+# Generate random colour and its rgb() value.
